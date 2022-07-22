@@ -1,0 +1,34 @@
+se debe tener instalado las siguiente librerias
+pyqt5 --> pip install pyqt5
+turtle --> pip install turtle
+numpy --> pip install numpy
+
+se deben abrir todos los archivos .py en el visual
+studio code, los archivos son los siguientes:
+
+busqueda_amp.py
+busqueda_prof.py
+Nodo.py
+INTERFAZ NEMO3.py
+
+para la ejecucion del programa se debe ejecutar el ultimo archivo 
+mencionado "INTERFAZ NEMO3.py"
+	
+	al abrir el programa estara habilitado el boton 
+	de buscar, en este apartado buscaremos el archivo de
+	texto ".txt" o ".TXT" que cargara el mapa del juego
+
+	cuando se seleciona un mapa se habilitaran los botones 
+	para realizar las busquedas, el usuario escojera que 
+	busqueda desea ver (nota:esperar a que finalice la ejecucion
+	de la animacion, de lo contario el programa terminara todo 
+	su proceso)
+
+	en la consola de visual studio code se mostara la matriz seleccionada
+	desde el archivo ".txt" o ".TXT" y el camino del robot segun el tipo de
+	de busqueda usado 
+
+	en consola tambien podremos ver los nodos expandidos y creados
+
+
+
